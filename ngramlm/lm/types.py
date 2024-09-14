@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-EOS_TOKEN = None
+EOS_TOKEN = 'END_OF_SEQUENCE'
 TXT_DOCUMENTS = "TXT"
 
 class LanguageModel:
