@@ -3,7 +3,10 @@
 This repository contains the implementation of a Character N-gram Language Model. It allows you to train and evaluate a language model based on character-level n-grams from text data.
 
 ## To Begin With
-
+The main function file is located in:
+```bash
+ngramlm/lm/__main__.py
+```
 To run the model with the default configuration, execute the following command:
 
 ```bash
